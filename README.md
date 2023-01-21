@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://roshanikumari06112.wixsite.com/mysite-1](https://roshanikumari06112.wixsite.com/mysite-1)
+- 👨‍💻 All of my projects are available at [https://roshanikumari06112.wixsite.com/mysite-1](https://roshanikumari06112.wixsite.com/mysite-1),
+- https://hashnode.com/post/cld5sxzri089d3pnv9690dwoc
 
 - 💬 Ask me about **Andriod, C/C++, Python, Java**
 
