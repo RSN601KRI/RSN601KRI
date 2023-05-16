@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Roshni Kumari</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 # 💫 About Me:
  I’m currently learning React Native<br>👨‍💻 All of my projects are available at https://roshanikumari06112.wixsite.com/mysite-1<br>💬 Ask me about Andriod, C/C++, Python, Java<br>📫 How to reach me roshanikumari06112004@gmail.com<br>⚡ Fun fact I am Funny<br>
 
