@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshni Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="left"> <img src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media" alt="" /> </p>
 
 # 💫 About Me:
  I’m currently learning React Native<br>👨‍💻 All of my projects are available at https://linktr.ee/roshniikri<br>💬 Ask me about Andriod, C/C++, Python, Java<br>📫 How to reach me roshanikumari06112004@gmail.com<br>⚡ Fun fact I am Funny<br>
