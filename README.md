@@ -16,6 +16,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RSN601KRI&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RSN601KRI&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# Badges 
+
+[![An image of @rsn601kri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rsn601kri)](https://holopin.io/@rsn601kri)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RSN601KRI&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
