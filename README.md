@@ -1,10 +1,11 @@
-<a href="https://app.daily.dev/roshni__06"><img src="https://api.daily.dev/devcards/c4b8f03d113849a987255876c163ff2c.png?r=tsj" width="400" alt="Roshni Kumari's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Roshni Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media" alt="" /> </p>
 
 # 💫 About Me:
  I’m currently learning React Native<br>👨‍💻 All of my projects are available at https://linktr.ee/roshniikri<br>💬 Ask me about Andriod, C/C++, Python, Java<br>📫 How to reach me roshanikumari06112004@gmail.com<br>⚡ Fun fact I am Funny<br>
+
+ <a href="https://app.daily.dev/roshni__06"><img src="https://api.daily.dev/devcards/c4b8f03d113849a987255876c163ff2c.png?r=tsj" width="400" alt="Roshni Kumari's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/roshnii89Pz#3197) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100081566097553&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/roshnikumari4035) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshnikumari1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21072865/roshni-kumari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/RoshniK29147303) 
