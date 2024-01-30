@@ -1,11 +1,24 @@
-<h1 align="center">Hi 👋, I'm Roshni Kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://dribbble.com/shots/3587000-Coding/attachments/9907911?mode=media" alt="" /> </p>
+<h1 align="center">Hi 👋, I'm Roshni </h1>
 
-# 💫 About Me:
- I’m currently learning React Native<br>👨‍💻 All of my projects are available at https://linktr.ee/roshniikri<br>💬 Ask me about Andriod, C/C++, Python, Java<br>📫 How to reach me roshanikumari06112004@gmail.com<br>⚡ Fun fact I am Funny<br>
+<p  align="top">
+ <a href="https://app.daily.dev/roshni__06"><img src="https://api.daily.dev/devcards/c4b8f03d113849a987255876c163ff2c.png?r=odl" width="300" alt="Roshni Kumari's Dev Card"/></a>
+ <img src="https://github.com/RSN601KRI/RSN601KRI/assets/106860359/200a0395-ff26-4504-818c-73c4fe4dfd96" width="360" height="380" style="border-radius: 30px;"  alt="Roshni's Dev Card"/>
+   <img src="https://github.com/RSN601KRI/RSN601KRI/assets/106860359/a81cb39c-299e-423d-89e6-c1c0eb0721fa" width="230" alt="Roshni Kumari's Dev Card"/>
+<!--  Roshni -->
+</p>
 
- <a href="https://app.daily.dev/roshni__06"><img src="https://api.daily.dev/devcards/c4b8f03d113849a987255876c163ff2c.png?r=tsj" width="400" alt="Roshni Kumari's Dev Card"/></a>
+---
+
+<p><i> I am Roshni, an ambitious front-end developer currently MLSA and pursuing an undergraduate degree in Computer Science and Engineering. As I navigate the exciting journey toward graduation in 2026, my enthusiasm for web development and native applications. My passion for coding is not solely self-serving; it extends to a genuine desire to contribute to the community and help others grow. As the Design Lead at Devsource Community, I find immense fulfilment in creating an environment that fosters collaboration, knowledge-sharing, and skill enhancement. Solving complex problems using Java data structures and algorithms has become second nature, enabling me to build applications that are not just functional but also scalable. Each project, whether in web development or algorithmic problem-solving, has been a stepping stone towards refining my abilities and contributing to the tech community. </b> </i></p>
+<ul>
+<li> 🌱 <b>I’m currently learning</b> : <code>DSA</code>, <code>Web dev</code>, <code>Web3</code>, <code>AL/ML</code>,li>
+<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>,<code>Java/C++</code>, <code>SQL</code>, <code>Reactjs</code></</li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/">LinkedIn</a></code>, <code><a href="https://twitter.com/RoshniK29147303">Twitter</a></code>, <code><a href="https://mail.google.com/mail/u/0/#inbox?compose=new:">Email</a></code>, <code><a href="https://portfolio-sigma-jade-52.vercel.app/">Portfolio</a></code>, <code><a href="https://auth.geeksforgeeks.org/user/roshanikumac31e">GFG</a></code>, <code><a href="https://youtube.com/@roshnikum_11">Youtube</a></code>, <code><a href="https://www.commudle.com/users/roshnik_11">Commudle</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://linktr.ee/roshniikri">roshni</a></code></li>
+<li> 😄 <b>Pronouns</b>: Passionate about AI and Cloud Computing to bring that tech into people's hands and AR too!
+<!-- <li> ⚡ <b>Fun fact</b> : </li> -->
+</ul>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/roshnii89Pz#3197) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100081566097553&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/roshnikumari4035) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshnikumari1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21072865/roshni-kumari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/RoshniK29147303) 
@@ -20,6 +33,10 @@
 # Badges 
 
 [![An image of @rsn601kri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rsn601kri)](https://holopin.io/@rsn601kri)
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+
+![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RSN601KRI&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -40,4 +57,7 @@
 [![](https://visitcount.itsvg.in/api?id=RSN601KRI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 
