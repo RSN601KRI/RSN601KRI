@@ -4,6 +4,7 @@
  <a href="https://app.daily.dev/roshni__06"><img src="https://api.daily.dev/devcards/c4b8f03d113849a987255876c163ff2c.png?r=odl" width="200" alt="Roshni Kumari's Dev Card"/></a>
  <img src="https://github.com/RSN601KRI/RSN601KRI/assets/106860359/200a0395-ff26-4504-818c-73c4fe4dfd96" width="260" height="280" style="border-radius: 20px;"  alt="Roshni's Dev Card"/>
    <img src="https://github.com/RSN601KRI/RSN601KRI/assets/106860359/a81cb39c-299e-423d-89e6-c1c0eb0721fa" width="150" alt="Roshni Kumari's Dev Card"/>
+ <img src="https://github.com/RSN601KRI/RSN601KRI/assets/106860359/200a0395-ff26-4504-818c-73c4fe4dfd96" width="260" height="280" style="border-radius: 20px;"  alt="Roshni's Dev Card"/>
 <!--  Roshni -->
 </p>
 
