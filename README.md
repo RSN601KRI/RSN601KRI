@@ -39,6 +39,7 @@
 | 🌐 Currency Convertor [**🔗**](https://currcon.netlify.app/) | 🌐 6Company30DayChallenge [**🔗**](https://github.com/RSN601KRI/6company30daychallenge) | 
 | 🌐 Weather App [**🔗**](https://waetherap.netlify.app/) | 🌐 ReactBoardApplication [**🔗**](https://react-board-application.vercel.app/) | 
 | 🌐 Tik-Tak-Toe [**🔗**](https://tktatoe.netlify.app/) | 🌐 GitDetective [**🔗**](https://gitdectectve.netlify.app/) |
+| 🌐 Image-Generation-Tool [**🔗**](https://github.com/RSN601KRI/ImageGenerationTool) | 🌐 Financial-Advisory [**🔗**](https://github.com/RSN601KRI/FinancialAdvisory) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RSN601KRI&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
