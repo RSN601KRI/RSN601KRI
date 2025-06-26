@@ -14,7 +14,7 @@
 <li> 🌱 <b>I’m currently learning</b> : <code>DSA</code>, <code>Web dev</code>, <code>Web3</code>, <code>AL/ML</code></li>
 <li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>,<code>Java/C++</code>, <code>SQL</code>, <code>Reactjs</code></</li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/">LinkedIn</a></code>, <code><a href="https://twitter.com/RoshniK29147303">Twitter</a></code>, <code><a href="https://mail.google.com/mail/u/0/#inbox?compose=new:">Email</a></code>, <code><a href="https://portfolio-sigma-jade-52.vercel.app/">Portfolio</a></code>, <code><a href="https://auth.geeksforgeeks.org/user/roshanikumac31e">GFG</a></code>, <code><a href="https://youtube.com/@roshnikum_11">Youtube</a></code>, <code><a href="https://www.commudle.com/users/roshnik_11">Commudle</a></code></li>
-<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://linktr.ee/roshniikri">roshni</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://roshphere.vercel.app">roshni</a></code></li>
 <li> 😄 <b>Pronouns</b>: Passionate about AI and Cloud Computing to bring that tech into people's hands and AR too!
 <!-- <li> ⚡ <b>Fun fact</b> : </li> -->
 </ul>
